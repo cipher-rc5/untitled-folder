@@ -1,41 +1,26 @@
-# Recidivism of NFTMachine
+# Recidivism Analysis of NFTMachine
 
-## Event Details
+## Event Overview
 
-Tyler Gaye(NFTMachine, @boobs_scary) initially defrauded investors in February 2021, by requesting $500,000USD for the development of a website to better facillate the transacting of non-fungible digital assets in exchange for 'ONFT Tokens'**OpeNFT**`0x869e54f7fe67af15eb0ed6e80358a248153a73db`. Investors contributed funds to the development of said endeavor, yet Tyler failed to deliver and was later sued by the investors[source](https://businessden.com/2022/05/24/investors-say-denver-nft-artist-stole-500k-spent-it-on-pixelated-cat-art/). Investors won the lawsuit, yet Mr.Gaye failed to appear in court and he was ordered to $275,000USD to the seven investors which sued him, at this time Mr.Gaye was deploying another project by the name of Arcade DAO`0x78d1410B8483C9B50D3aBc1B1220BE49505b21e6`(Ethereum blockchain address). This instance was effectively copyright infringement of popular electronic video game, "Super Mario Bros".
+In February 2021, an individual known as Tyler Gaye, operating under the alias NFTMachine (@boobs_scary), engaged in fraudulent activities by soliciting $500,000 USD from investors. The funds were purportedly for developing a website to facilitate transactions of non-fungible digital assets in exchange for 'ONFT Tokens' (**OpeNFT**), identifiable by the Ethereum blockchain address `0x869e54f7fe67af15eb0ed6e80358a248153a73db`. Despite collecting the funds, Tyler failed to deliver on his promises, leading to legal action by the investors. Although the court ruled in favor of the investors, mandating Tyler to compensate $275,000 USD, he defaulted on his court appearance and continued his fraudulent schemes, including launching Arcade DAO `0x78d1410B8483C9B50D3aBc1B1220BE49505b21e6`, which involved copyright infringement of the popular video game "Super Mario Bros".
 
-![Alt text](image-6.png)
+Tyler Gaye's activities have not ceased post-lawsuit; he has initiated over ten projects to date, displaying awareness of his fraudulent actions and even threatening individuals on social media platforms, showing no remorse or intention to halt his fraudulent conduct.
 
-Tyler Gaye has not changed at all post his lawsuit, to date he has deployed at very least more than [10 projects](/Projects). Furthermore, NFTMachine has displayed publicly that he is well aware of his fraudulent action's and even gone to extent of threatening others on social media platforms. Mr.Gaye has exhibited little to no remorse for his actions nor any intention of deceasing from conducting fraud.
+## Scammer Profile
 
-![Alt text](image.png)
+- **Name:** Tyler Gaye
+- **Aliases:** NFTMachine, @boobs_scary
+- **Email:** [tylercgaye@gmail.com](mailto:tylercgaye@gmail.com)
+- **GitHub:** [https://github.com/tgaye](https://github.com/tgaye)
 
-## Scammer Details and Information
+### Cryptocurrency Addresses
 
-Scammer: Tyler Gaye
-Aliases:
+- Ethereum: `0x869e54f7fe67af15eb0ed6e80358a248153a73db` (OpeNFT.eth, sourced from [Rarible](https://rarible.com/nftmachine/owned))
+- Solana: `8C4nNMisTKw9XwGhoK7GodMuwPWd3FPZPEis9KDDEnUt` (Connected to [TestNFT Gameframe](https://solana.fm/address/Hm1sPe2oEjgvFhBewwZmhszw9wd11v2qvBL8VDRrNH47) on GitHub)
 
-- NFTMachine
-- @boobs_scary
+**Warning:** High volume of transactional activity linked to additional addresses and Ethereum smart contracts.
 
-[Email Address](tylercgaye@gmail.com) Connected to [Github](https://github.com/tgaye):
-
- Cryptocurrency addreses:
-
-- `0x869e54f7fe67af15eb0ed6e80358a248153a73db` - NFTMachine
-  - Sourced From: <https://rarible.com/nftmachine/owned>
-  - registered Ethereum Name Service(ENS): **OpeNFT.eth** txn: `0x1e825de2dce7670ac036d452ac69bc49dbf4f5f89684f8153964b5571ec3f8a0`
-    - connects directly to [Tyler Gaye's Github Account](https://github.com/district0x/district-proposals/issues/295)
-  - Chains: Ethereum, Polygon, Layerzero, ZkSync, ImmutableX
-- `8C4nNMisTKw9XwGhoK7GodMuwPWd3FPZPEis9KDDEnUt` - tgaye Solana public key
-  - Sourced From: <https://github.com/tgaye/SolanaMultiplayerEscrow-Python/blob/main/seahorse.py>
-  - Connected to [TestNFT Gameframe](https://solana.fm/address/Hm1sPe2oEjgvFhBewwZmhszw9wd11v2qvBL8VDRrNH47) seen on Github
-
-> :warning: **Warning:**The address above is also showing a high volume of transactional activity with these additional addresses and blockchain: ethereum smart contracts
-
-### Addresses
-
-Addresses:
+### Associated Addresses
 
 - address, network, name/label
 - `0x78d1410B8483C9B50D3aBc1B1220BE49505b21e6`, eth, ArcadeDAO
@@ -54,10 +39,9 @@ Addresses:
 - `0x91C8a2EB72a7eB5e3CdB1D58B3e61b251e25274C`, eth
 - `0xC40D8f6e4f096B4A23483E45B8F907a3ED4766Cb`, eth
 
-### Projects
+### Projects and Contracts
 
-Contracts/Projects:
-
+- `0xc35C2C682d4EE43D947228E3720a51fc3b8733B8`, Ethereum, NFT Machine Token
 - `0xc35C2C682d4EE43D947228E3720a51fc3b8733B8`, ethereum, NFT Machine Token
 - `0xa51EFb8E7D96B2936a95f9d4C6B30Df5956264B1`, ethereum, ETHarcade(ARCADE)
 - `0x70A466bc212a0A4298BCA56195290242eBC61B18`, ethereum, ETHarcade(ARCADE)
@@ -70,72 +54,43 @@ Contracts/Projects:
 - `0x9a2abacd20885c1645d2d4e86e41493c73e0c5cb`, ethereum, bettle_game
 - `0x92715b8F93729c0B014213f769EF493baecE`, etherum, Wifu
 
-Known scam progression
-OpeNFT -> Arcade DAO -> GamerGear -> Solana -> Ethereum
-
-Tyler would commonly employ the mintToAdmin function:
+### Deployment Pattern
+NFTMachine would commonly employ the mintToAdmin function:
 
 - Function: mintToAdminMany(address _to,uint256_amount)
 - MethodID: 0x68be561b
   - transaction sample from `0x78d1410B8483C9B50D3aBc1B1220BE49505b21e6` to ETH Arcade `0xa51EFb8E7D96B2936a95f9d4C6B30Df5956264B1`
     - eth txn: 0x289c8e108e73af7a469fca3ec52d61ba16237148ed046c2b618c4e2ce55cb5d1
 
-hello
-![Alt text](image-4.png)
+### Known Scam Progression
 
-Image depicting verification that NFTMachine and @boobs_scary are the same person
-![Alt text](image-3.png)
+Tyler's scam operations have transitioned across multiple platforms and projects, from OpeNFT to Arcade DAO, then to GamerGear, Solana, and back to Ethereum. He frequently used the `mintToAdminMany` function to allocate tokens to himself or associates, as evidenced by transactions like `0x289c8e108e73af7a469fca3ec52d61ba16237148ed046c2b618c4e2ce55cb5d1`.
 
-teest
+## Sources and References
 
-![Alt text](image-1.png)
+- [Investor lawsuit details](https://businessden.com/2022/05/24/investors-say-denver-nft-artist-stole-500k-spent-it-on-pixelated-cat-art/)
+- [GitHub repositories](https://github.com/tgaye)
+- [On-chain research by ZachXBT](https://x.com/zachxbt/status/1590049935692828673?s=20)
+- [Copyright infringement case](https://beincrypto.com/arcade-dao-under-fire-alleged-scam-copyrighted-material/)
+- [openft announcement](https://github.com/district0x/district-proposals/issues/295)
+- [Github](https://github.com/tgaye)
+- [bloons-nf-tmint](https://urlscan.io/result/d0260fbd-5b2b-4aab-b7e4-6981e5caec2e/)
+- [Flappyroyale](https://urlscan.io/result/7c0437cf-3d86-403f-b3ea-ce1f1f8ce8ef/)
+- [0penft github](https://github.com/0peNFT)
+- [0xShual Research](https://x.com/0xShual/status/1739230667047686581?s=20)
+- [2021_Overview_Summary](https://businessden.com/2022/05/24/investors-say-denver-nft-artist-stole-500k-spent-it-on-pixelated-cat-art/)
+- [Openft medium introduction](https://openft.medium.com/introducing-openft-the-first-community-owned-crypto-art-aggregator-bc50cfb359af)
+- [Openft Medium](https://openft.medium.com/)
+- [Legal_docs_2021](https://trellis.law/doc/163654158/order-related-document-order-granting-substituted-service-granted)
+- [Copyright infringement of MarioBros](https://beincrypto.com/arcade-dao-under-fire-alleged-scam-copyrighted-material/)
+- [Overview](https://www.bitcoininsider.org/article/192978/nft-scammer-fined-275000)
 
-![Alt text](image-2.png)
+## Address interactions visualization
 
-![Alt text](image-5.png)
+[Visualization available here](https://metasleuth.io/result/eth/0x01b07c638abf4320d8fddcb62ff24267687c4a2f2609f195c1de4c185f41fa7b?source=6ec4172b-fde1-4373-8dce-b2d0ccb123d0)
 
-#### Sources
+### Contact Information
 
-openft announcement
-<https://github.com/district0x/district-proposals/issues/295>
-
-github
-<https://github.com/tgaye>
-
-bloons-nf-tmint
-<https://urlscan.io/result/d0260fbd-5b2b-4aab-b7e4-6981e5caec2e/>
-
-flappyroyale
-<https://urlscan.io/result/7c0437cf-3d86-403f-b3ea-ce1f1f8ce8ef/>
-
-openft github
-<https://github.com/0peNFT>
-
-ZachXBT - onchain researcher outlining the story of NFTMachine
-<https://x.com/zachxbt/status/1590049935692828673?s=20>
-
-0xShual - First researcher to express concerns regarding projects from NFTMachine
-<https://x.com/0xShual/status/1739230667047686581?s=20>
-
-2021 summary overview
-<https://businessden.com/2022/05/24/investors-say-denver-nft-artist-stole-500k-spent-it-on-pixelated-cat-art/>
-
-Openft Medium explaining the project and its objectives
-<https://openft.medium.com/introducing-openft-the-first-community-owned-crypto-art-aggregator-bc50cfb359af>
-
-Openft Medium
-<https://openft.medium.com/>
-
-Legal documents from 2021
-<https://trellis.law/doc/163654158/order-related-document-order-granting-substituted-service-granted>
-
-Copyright infringement of MarioBros
-<https://beincrypto.com/arcade-dao-under-fire-alleged-scam-copyrighted-material/>
-
-Overview article
-<https://www.bitcoininsider.org/article/192978/nft-scammer-fined-275000>
-
-#### Contact
-
-Judge David Goldberg Colorado District Court
-<https://www.courts.state.co.us/Bio.cfm?Employee_ID=808>
+**Judge David Goldberg**
+Colorado District Court
+[https://www.courts.state.co.us/Bio.cfm?Employee_ID=808](https://www.courts.state.co.us/Bio.cfm?Employee_ID=808)

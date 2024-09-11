@@ -1,0 +1,113 @@
+
+
+sourced from: https://urlscan.io/result/255df25b-21b1-401b-81be-8eb781f98c53/#transactions
+
+
+failed domain call: 
+hxxps[://]syndication[.]twitter[.]com/srv/timeline-profile/screen-name/_web3m_?creatorScreenName=_WEB3M_&dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=false&lang=en&maxHeight=500px&origin=hxxps%3A%2F%2Fcollabhub[.]space%2Fartificially-inaugural-conversation%2F&sessionId=b2571368b20ccc8a7582dd57e9061b8ab24d23ef&showHeader=true&showReplies=false&siteScreenName=_WEB3M_&theme=light&transparent=false&widgetsVersion=2615f7e52b7e0%3A1702314776716
+
+
+Parsed URI: 
+Protocol:	https:
+Hostname:	syndication[.]twitter[.]com
+Path name:	/srv/timeline-profile/screen-name/_web3m_
+Arguments:
+	creatorScreenName = _WEB3M_
+	dnt               = false
+	embedId           = twitter-widget-0
+	features          = eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ==
+	frame             = false
+	hideBorder        = false
+	hideFooter        = false
+	hideHeader        = false
+	hideScrollBar     = false
+	lang              = en
+	maxHeight         = 500px
+	origin            = hxxps[://]collabhub[.]space/artificially-inaugural-conversation/
+	sessionId         = b2571368b20ccc8a7582dd57e9061b8ab24d23ef
+	showHeader        = true
+	showReplies       = false
+	siteScreenName    = _WEB3M_
+	theme             = light
+	transparent       = false
+	widgetsVersion    = 2615f7e52b7e0:1702314776716
+
+
+features base64 string decoded:
+{
+   "tfw_timeline_list":{
+      "bucket":[
+         
+      ],
+      "version":null
+   },
+   "tfw_follower_count_sunset":{
+      "bucket":true,
+      "version":null
+   },
+   "tfw_tweet_edit_backend":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_refsrc_session":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_fosnr_soft_interventions_enabled":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_mixed_media_15897":{
+      "bucket":"treatment",
+      "version":null
+   },
+   "tfw_experiments_cookie_expiration":{
+      "bucket":1209600,
+      "version":null
+   },
+   "tfw_show_birdwatch_pivots_enabled":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_duplicate_scribes_to_settings":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_use_profile_image_shape_enabled":{
+      "bucket":"on",
+      "version":null
+   },
+   "tfw_video_hls_dynamic_manifests_15082":{
+      "bucket":"true_bitrate",
+      "version":null
+   },
+   "tfw_legacy_timeline_sunset":{
+      "bucket":true,
+      "version":null
+   },
+   "tfw_tweet_edit_frontend":{
+      "bucket":"on",
+      "version":null
+   }
+}
+
+
+further analysis of sample: 
+https://urlscan.io/result/255df25b-21b1-401b-81be-8eb781f98c53/#transactions
+
+pivot on bitly returns telegram
+https://urlscan.io/result/912990c9-399e-41eb-8e89-45beeab2c22e/
+
+
+filename: 64pog[.]js hash: 186d7eb0bfac3450d21197bb8eeb896d631d3e887d238e786fd4936e906b9f0e 
+referenced_in:collabhub[.]space/wp-content/cache/speedycache/collabhub[.]space/assets/006321a6bd54f2eb26fa5f29326ad7e0/
+
+references_domain: https://urlscan.io/domain/develop-collabhub.onchaintargeting.com
+directory_image: https://urlscan.io/liveshot/?url=http://develop-collabhub.onchaintargeting.com
+
+
+google_account_attached:
+https://urlscan.io/result/a4183e2d-9844-4ccc-a575-96332dc26c4e/
+
+collabspace_domain: 
+https://urlscan.io/domain/collabhub.space

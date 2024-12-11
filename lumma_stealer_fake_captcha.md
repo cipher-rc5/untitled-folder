@@ -6,6 +6,8 @@ initial_scan: [https://urlscan.io/result/8c4c6640-44b9-455c-8650-427b7430beaf](h
 
 TLP: Green 🟢
 
+UPDATE: Observing high correlations to PEAKLIGHT campaign, adding supplemental context as reference section
+
 ## sample_analysis
 
 malicious_url:  hxxps[://]pub-7a0525921ff54f1193db83d7303c6ee8[.]r2[.]dev/google-verify-12-imp[.]html  
@@ -26,6 +28,7 @@ interaction:
 
 
 ## Domains
+
 - hxxps[://]check-your-humanity[.]b-cdn[.]net/capt-v2[.]html
 - hxxps[://]sos-at-vie-1[.]exo[.]io/bucketrack/dir62/final/ver-check-box-tick[.]html
 - hxxps[://]spark-captcha[.]netlify[.]app/
@@ -208,3 +211,16 @@ interaction:
 - hxxps[://]verifyhuman476[.]b-cdn[.]net/human-verify-system[.]html
 - hxxps[://]verify-captcha-987[.]b-cdn[.]net/verify-captcha-v1[.]html
 - hxxps[://]vercapth63[.]b-cdn[.]net/verify-captcha-v1[.]html
+
+## Tools
+
+- UrlScan [https://urlscan.io/](https://urlscan.io/)
+- Validin [https://app.validin.com/](https://app.validin.com/)
+  
+## References
+
+- [Infosec Writeups Peaklight Campaign](https://infosecwriteups.com/peaklight-campaign-mshta-a7f45aec50ab)
+- [Google Threat Intelligence Peaklight](https://cloud.google.com/blog/topics/threat-intelligence/peaklight-decoding-stealthy-memory-only-malware/?linkId=10719875)
+- [Maltrail Peaklight](https://github.com/stamparm/maltrail/blob/master/trails/static/malware/peaklight.txt)
+- [Cyware Peaklight: Stealthy Memory only Dropper Delivers Peaklight Loader on Windows Systems](https://social.cyware.com/news/stealthy-memory-only-dropper-delivers-peaklight-loader-on-windows-systems-54e783fc)
+
